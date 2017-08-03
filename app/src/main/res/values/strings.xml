@@ -3,6 +3,80 @@
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string name="categoria_1">Ubicación Geográfica</string>
+    <string name="action_settings">Configuración</string>
+    <string name="provincia">Provincia</string>
+    <string name="canton">Cantón</string>
+    <string name="parroquia">Parroquia</string>
+    <string name="zona">Zona</string>
+    <string name="urbana">Urbana</string>
+    <string name="rural">Rural</string>
+    <string name="sector_direccion">Sector/Dirección</string>
+    <string name="distancia_km">Distancia (Km)</string>
+    <string name="tiempo_estimado_min">Tiempo Estimado (Min)</string>
+    <string name="punto_de_referencia">Punto de Referencia</string>
+    <string name="coordenada_x">Coordenada X</string>
+    <string name="coordenada_y">Coordenada Y</string>
+    <string name="altitud">Altitud</string>
 
-    <string name="action_settings">Settings</string>
+    <string name="categoria_3">Población Impactada</string>
+    <string name="adultos_15_mayor">Adultos (15 años o mayor)</string>
+    <string name="niños_0_14">Niños (0 a 14 años)</string>
+    <string name="numero_total">Número Total</string>
+    <string name="hombres">Hombres</string>
+    <string name="mujeres">Mujeres</string>
+    <string name="niños">Niños</string>
+    <string name="niñas">Niñas</string>
+    <string name="poblacion_total_impactada">Población Total del Área Impactada</string>
+    <string name="afectados">Afectados</string>
+    <string name="damnificados">Damnificados</string>
+    <string name="evacuados">Evacuados</string>
+    <string name="albergados">Albergados</string>
+    <string name="heridos">Heridos</string>
+    <string name="desaparecidos">Desaparecidos</string>
+    <string name="fallecidos">Fallecidos</string>
+    <string name="poblacion_necesidades_especiales">Población con necesidades especiales</string>
+    <string name="hogares_mujeres_familia">Hogares con mujeres como cabeza de familia</string>
+    <string name="hogares_niños_familia">Hogars con niños/as como cabeza de familia</string>
+    <string name="mujeres_embarazadas_lactantes">Mujeres embarazadas/lactantes</string>
+    <string name="huerfanos">Huérfanos</string>
+    <string name="discapacitados">discapacitados</string>
+    <string name="personas_emocional_afectadas">Personas emocionalmente afectadas</string>
+    <string name="personas_sufrieron_violencia">Personas que sufrieron alguna violencia</string>
+    <string name="especifique_etnia">Especifique si hay etnia predominante</string>
+
+    <string name="categoria_5">Daños en vivienda</string>
+    <string name="sin_daño">Sin Daño</string>
+    <string name="temporalmente_no_habitables">Temporalmente No Habitables</string>
+    <string name="daño_parcial_habitables">Daño Parcial Habitables</string>
+    <string name="daño_total_habitables">Daño Total Habitables</string>
+    <string name="viviendas_afectadas">Viviendas Afectadas</string>
+    <string name="total_viviendas">Total Viviendas</string>
+
+    <string name="categoria_7">Accesibilidad</string>
+    <string name="via_aerea">Vía Aérea</string>
+    <string name="via_terrestre">Vía Terrestre</string>
+    <string name="via_fluvial">Vía Fluvial</string>
+    <string name="especifique_transporte">Especifique tipo de transporte</string>
+
+    <string name="categoria_9">Situación de ayuda humanitaria</string>
+    <string name="categoria_9_1">Organizaciones de Socorro/Desarrollo que están funcionando en la comunidad</string>
+    <string name="organizacion_institucion">Organización/Institución</string>
+    <string name="sector_intervencion">Sector de la intervención (salud, agua, etc)</string>
+    <string name="co">CO</string>
+    <string name="categoria_9_2">Acciones de respuesta realizadas hasta el momento</string>
+    <string name="fecha">Fecha</string>
+    <string name="descripcion">Descripción</string>
+    <string name="n_hogares_personas_beneficiadas">Número de hogares o personas beneficiadas</string>
+
 </resources>
